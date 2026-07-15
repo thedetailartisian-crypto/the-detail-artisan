@@ -80,9 +80,11 @@ function Landing() {
       <Nav />
       <Hero />
       <Marquee />
-      <Trust />
+
       <Services />
       <AddOns />
+      <Trust />
+
       <Showcase />
       <Gallery />
       <WhyUs />
