@@ -63,9 +63,9 @@ const AREAS = [
 ];
 
 const PACKAGES = [
-  { id: "quick", name: "Quick Detail", price: 84.99, label: "Quick Detail" },
-  { id: "wash", name: "Wash and Wax", price: 149.99, label: "Wash & Wax" },
-  { id: "full", name: "Artisan Full Reset", price: 219.99, label: "Artisan Full Reset" },
+  { id: "quick", name: "Quick Detail", price: 119.99, label: "Quick Detail" },
+  { id: "wash", name: "Mini Detail", price: 149.99, label: "Mini Detail" },
+  { id: "full", name: "Artisan Full Reset", price: 249.99, label: "Artisan Full Reset" },
 ];
 
 const ADDONS = [
